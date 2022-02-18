@@ -1,4 +1,4 @@
-# BME-121-pa1-othello-game
+# othello-game
 
 This programming was to design Othello game (aka. Reversi)
 that has two players who play either black or white dics.
